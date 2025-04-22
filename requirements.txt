@@ -1,0 +1,8 @@
+streamlit
+spacy
+pdfminer.six
+python-docx
+sentence-transformers
+pytesseract
+Pillow
+plotlypip
